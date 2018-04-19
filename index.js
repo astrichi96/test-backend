@@ -1,3 +1,6 @@
+/*
+    The server is started with express and the connection to the database is made in MongoDB
+*/
 'use-strict'
 
 const mongoose = require('mongoose')

@@ -1,3 +1,8 @@
+/*
+    In this model, it represents the attributes of the 
+    specialties that are stored in the database
+*/
+
 'use strict'
 
 const mongoose = require('mongoose')

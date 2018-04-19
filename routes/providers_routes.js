@@ -1,5 +1,9 @@
+/*
+    this file specifies the routes associated with the verbs 
+    (GET, POST, UPDATE, DELETE) where the respective queries 
+    for the providers will be made
+*/
 'use strict'
-
 const express = require('express')
 const ProviderController = require('../controllers/providers_controller')
 
