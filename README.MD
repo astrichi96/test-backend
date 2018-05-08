@@ -27,7 +27,7 @@ Queries available for the model through the API
 ===============================================
 
 Consultations for providers
-==================================
+------------------------------------
 
 GET: 'URL_BASE/provider'  ---> List of Provider
 
@@ -41,7 +41,7 @@ DELETE: 'URL_BASE/provider/:providerId'  ---> Remove providers by Identification
 
 
 Consultations for specialties
-=================================
+------------------------------------
 
 GET: 'URL_BASE/specialties' ---> List Specialties
 
