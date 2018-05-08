@@ -27,24 +27,24 @@ Queries available for the model through the API
 ===============================================
 
 Consultations for providers
-------------------------------------
+==================================
 
-GET: 'URL_BASE/provider'
-GET: 'URL_BASE/provider/:providerId'
-POST:'URL_BASE/provider/provider'
-PUT: 'URL_BASE/provider/:providerId'
-DELETE: 'URL_BASE/provider/:providerId'
+GET: 'URL_BASE/provider'  ---> List of Provider
+GET: 'URL_BASE/provider/:providerId'  ---> List of providers by identification
+POST:'URL_BASE/provider/provider'   ---> Add providers
+PUT: 'URL_BASE/provider/:providerId' ---> Modify providers by Identification
+DELETE: 'URL_BASE/provider/:providerId'  ---> Remove providers by Identification
 
 
 
 Consultations for specialties
-------------------------------------
+=================================
 
-GET: 'URL_BASE/specialties'
-GET: 'URL_BASE/specialties/:specialtieId'
-POST:'URL_BASE/specialties'
-PUT: 'URL_BASE/specialties/:specialtieId'
-DELETE: 'URL_BASE/specialties/:specialtieId'
+GET: 'URL_BASE/specialties' ---> List Specialties
+GET: 'URL_BASE/specialties/:specialtieId' ---> List specialties by identification
+POST:'URL_BASE/specialties'  ---> Add specialties
+PUT: 'URL_BASE/specialties/:specialtieId' ---> Modify specialties by identification
+DELETE: 'URL_BASE/specialties/:specialtieId' ---> Remove specialties by identification
 
 
 
