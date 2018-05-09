@@ -53,5 +53,9 @@ PUT: 'URL_BASE/specialties/:specialtieId' ---> Modify specialties by identificat
 
 DELETE: 'URL_BASE/specialties/:specialtieId' ---> Remove specialties by identification
 
+Documentation
+===============================================
+For more information about the creation of the RESt API, see the documentation available at:
+[a link](https://drive.google.com/file/d/11Vpwa6vObOESxId5_jYBgQVvlMgRGf6G/view?usp=sharing)
 
 
